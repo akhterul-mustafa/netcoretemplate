@@ -1,0 +1,2 @@
+# netcoretemplate
+.NET Core Template
